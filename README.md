@@ -4,10 +4,11 @@
 
 To build regression methodology to predict if the person have `Heart disease` or not. 
 
-## Soluton :
+## Solution :
 
  I created a web app that takes the information provided by the client, processes it, and returns a result or a statement if the person have Heart disease or not. the entire system is built on  `python`, `LogisticRegression` in machine learning algorithm.
 
+Source for Datasets - https://www.kaggle.com/ronitf/heart-disease-uci
 
 ## Life cycle of the project
 
